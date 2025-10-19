@@ -10,7 +10,7 @@ from Script import script
 id_pattern = re.compile(r'^.\d+$')
 
 # Bot information
-SESSION = environ.get('SESSION', 'TechVJBot')
+SESSION = environ.get('SESSION', 'padumpluse')
 API_ID = int(environ.get('API_ID', '22884479'))
 API_HASH = environ.get('API_HASH', 'f208d3d04fd9e53389a3b210f87ccde8')
 BOT_TOKEN = environ.get('BOT_TOKEN', "7635145970:AAE0Lht6iDH3DQTJd2UlTob8Riy5BeVJz3E")
@@ -196,4 +196,5 @@ else:
 # Don't Remove Credit @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
 # Ask Doubt on telegram @KingVJ01
+
 
